@@ -1,0 +1,7 @@
+idea/
+*.iml
+.*
+!/.gitignore
+target/
+HW5/log.txt
+HW5/list.xls
